@@ -1,0 +1,2 @@
+TOKEN = '5392705097:AAFaMJIL3_pCd5IUxjjUf20jCf1HkGEnCwk'
+ADMIN = 'topwin5'
